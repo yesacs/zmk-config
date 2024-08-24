@@ -15,7 +15,7 @@
 
 
   &mt {
-    tapping_term-ms = <400>
+    tapping_term-ms = <400>;
   };
 
 / {
