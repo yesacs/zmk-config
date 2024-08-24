@@ -12,8 +12,9 @@
 #define BT 1
 #define NUMBERS 2
 #define BRACES 3
+#define ARROWS 4
 
-&mt { tapping_term-ms = <400>; };
+// &mt { tapping_term-ms = <400>; };
 
 / {
     combos {
