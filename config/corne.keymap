@@ -24,7 +24,7 @@
             key-positions = <19 21>;
         };
 
-        hmr_gui {
+        hmr_gui_left {
             bindings = <&none>;
             key-positions = <13 15>;
         };
