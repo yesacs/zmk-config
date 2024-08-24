@@ -16,6 +16,20 @@
 &mt { tapping_term-ms = <400>; };
 
 / {
+    combos {
+        compatible = "zmk,combos";
+
+        hmr_gui {
+            bindings = <&kp LEFT_GUI>;
+            key-positions = <19 21>;
+        };
+
+        hmr_gui {
+            bindings = <&none>;
+            key-positions = <13 15>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
