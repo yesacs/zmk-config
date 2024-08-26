@@ -96,9 +96,9 @@
 
         arrow_layer {
             bindings = <
-&trans  &trans  &kp EQUAL  &kp GREATER_THAN  &trans  &trans     &trans    &trans    &trans        &trans    &trans         &kp DEL
-&trans  &trans  &trans     &trans            &trans  &trans     &kp LEFT  &kp DOWN  &kp UP_ARROW  &kp LEFT  &trans         &trans
-&trans  &trans  &trans     &trans            &trans  &trans     &trans    &trans    &trans        &trans    &kp BACKSLASH  &trans
+&trans  &trans  &kp EQUAL  &kp GREATER_THAN  &trans  &trans     &trans    &trans    &trans        &trans     &trans         &kp DEL
+&trans  &trans  &trans     &trans            &trans  &trans     &kp LEFT  &kp DOWN  &kp UP_ARROW  &kp RIGHT  &trans         &trans
+&trans  &trans  &trans     &trans            &trans  &trans     &trans    &trans    &trans        &trans     &kp BACKSLASH  &trans
                            &trans            &trans  &kp TAB    &trans    &trans    &trans
             >;
         };
